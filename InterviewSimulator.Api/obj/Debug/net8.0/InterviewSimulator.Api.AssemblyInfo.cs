@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterviewSimulator.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24fd9bd3b47c74affac11b1324e8acd989dd86c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterviewSimulator.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterviewSimulator.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

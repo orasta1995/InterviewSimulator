@@ -62,8 +62,7 @@
               "RelativeToolTip": "InterviewSimulator.Api\\Hubs\\InterviewHub.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAApwBwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:40:12.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:40:12.023Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "InterviewSimulator.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T07:43:35.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:43:35.703Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "InterviewSimulator.Api\\Services\\IGeminiService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:41:22.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:41:22.135Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "InterviewSimulator.Api\\Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:31:44.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:31:44.851Z"
             },
             {
               "$type": "Document",
@@ -120,15 +116,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InterviewSimulator.Api",
+              "Title": "InterviewSimulator.Api.csproj",
               "DocumentMoniker": "D:\\project\\InterviewSimulator\\InterviewSimulator.Api\\InterviewSimulator.Api.csproj",
               "RelativeDocumentMoniker": "InterviewSimulator.Api\\InterviewSimulator.Api.csproj",
               "ToolTip": "D:\\project\\InterviewSimulator\\InterviewSimulator.Api\\InterviewSimulator.Api.csproj",
               "RelativeToolTip": "InterviewSimulator.Api\\InterviewSimulator.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T07:39:03.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:39:03.052Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "InterviewSimulator.Api\\wwwroot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswBgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-22T07:44:56.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:44:56.268Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "InterviewSimulator.Api\\Services\\GeminiOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:41:44.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:41:44.832Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "InterviewSimulator.Api\\Models\\InterviewMessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:39:24.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:39:24.394Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "InterviewSimulator.Api\\wwwroot\\interview.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-22T08:18:04.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T08:18:04.997Z"
             }
           ]
         }
