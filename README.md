@@ -1,26 +1,54 @@
-InterviewSimulator is a scalable AI web app built with .NET Blazor, Google Cloud Run, and Gemini API.
-It allows users to practice real-time job interviews powered by AI — generating intelligent interview questions, analyzing answers, and giving instant feedback.
+# 🧠 InterviewSimulator
 
-🚀 Tech Stack:
+**AI-Powered Interview Practice Platform** built with **ASP.NET Web API**, **HTML/CSS/JavaScript**, **Gemini API**, and **Google Cloud Run**.
 
-.NET 8 (Blazor Web App)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-FFD700?style=for-the-badge&logo=google&logoColor=black)
 
-Clean Architecture (Domain, Application, Infrastructure, UI)
+---
 
-SignalR for real-time chat
+## 🌍 Overview
 
-Gemini API (Google AI)
+**InterviewSimulator** is a scalable AI web app that lets users **practice real-time job interviews** with an intelligent virtual interviewer.  
+It uses **Google Gemini API** to generate dynamic interview questions, analyze responses, and provide instant AI-driven feedback.
 
-Docker & Google Cloud Run deployment
+The app is containerized with **Docker** and deployed to **Google Cloud Run** for seamless scalability and reliability.
 
-🌐 Features:
+---
 
-Interactive AI interview sessions
+## ⚙️ Tech Stack
 
-Real-time question generation & feedback
+| Layer | Technology |
+|-------|-------------|
+| **Frontend** | Blazor Web App (.NET 8) |
+| **Backend** | ASP.NET Core + SignalR |
+| **AI Engine** | Google Gemini API |
+| **Architecture** | Clean Architecture (Domain, Application, Infrastructure, UI) |
+| **Deployment** | Docker + Google Cloud Run |
+| **Database (optional)** | PostgreSQL |
 
-Cloud-scalable and containerized deployment
+---
 
-Supports multiple job roles and skill levels
+## 🚀 Features
 
-🧩 Goal: Help users prepare for interviews confidently with intelligent, automated practice.
+✅ Real-time AI interview simulation  
+✅ Smart question generation based on job roles  
+✅ Instant feedback and response evaluation  
+✅ Scalable and serverless deployment on Cloud Run  
+✅ Clean architecture for maintainability and testability  
+
+---
+
+## 🧩 System Architecture
+
+User (Browser) → Frontend (HTML/CSS/JS) → ASP.NET Web API → SignalR Hub → Gemini API → Response → User
+
+
+- The user interacts through the **HTML/CSS/JS frontend**.  
+- Requests are sent to **ASP.NET Web API**, which handles logic and communicates with **SignalR Hub** for real-time updates.  
+- **Gemini API** generates AI interview questions and evaluates answers.  
+- Responses are sent back to the user instantly.  
+- The whole system is **containerized with Docker** and deployed on **Google Cloud Run** for scalability and reliability.
+  
